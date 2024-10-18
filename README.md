@@ -3,7 +3,39 @@ Name-Muskan
 Student ID- 041127898
 College-Algonquin College at CDI
 Project-Pokedex
- Assignment Capstone Part 2 
+ Assignment Capstone Part 3
+
+
+Part 3
+Git Hub Link = https://github.com/muskan1025/Capestone-Muskan.git
+Making branch Part 3 from branch part 2
+ ![image](https://github.com/user-attachments/assets/ac829132-b734-4ba1-b121-d7aa81c694a7)
+
+
+Outputs
+![image](https://github.com/user-attachments/assets/050be253-4ce8-431e-839c-7217019b0662)
+ 
+
+While we click on any Pokémon it pops up with the information of that Pokémon
+![image](https://github.com/user-attachments/assets/f9c99371-f343-45e1-a733-823a98ab031f)
+
+ 
+You can catch the Pokémon or release them
+
+![image](https://github.com/user-attachments/assets/51ef11c7-f1ee-48e3-8a4a-6770c2f674e8)
+![image](https://github.com/user-attachments/assets/807aea5b-ecf5-4ee1-b29c-de8e6a58fef3)
+
+
+
+MTM6302 Web Development III 
+Name-Muskan
+Student ID- 041127898
+College-Algonquin College at CDI
+Project-Pokedex
+ Assignment Capstone Part 2
+
+
+
  In order to produce visually acceptable and appealing Pokedex you should pay a lots of attention to layout, color, typography, and graphics. Here are the reasons for each aspect:
 
 1. Layout Design
